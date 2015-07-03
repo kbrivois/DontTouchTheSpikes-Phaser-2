@@ -1,0 +1,18 @@
+{"frames": [
+	{
+		"name": "spike-bottom",
+		"frame": {"x":5,"y":5,"w":54,"h":32}
+	},
+	{
+		"name": "spike-left",
+		"frame": {"x":69,"y":5,"w":32,"h":54}
+	},
+	{
+		"name": "spike-right",
+		"frame": {"x":111,"y":5,"w":32,"h":54}
+	},
+	{
+		"name": "spike-top",
+		"frame": {"x":153,"y":5,"w":54,"h":32}
+	}
+]}
